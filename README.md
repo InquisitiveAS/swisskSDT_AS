@@ -6,7 +6,12 @@ BACKGROUND
 
 This Repository springed from the idea of "Swiss Knife" Essentials to familarize in co-developing Desktop Applications,Web Applications,Enterprise Software 
 It is multidiversed as it comprises various technologies(Frameworks,Language,Software Architectures,Architecture Patterns) in Computer Science field
-The ultimate Goal of this repository is to use these basics scripts for Computational Design Workflows in AEC domain ( Industry and Academia)
+
+APPLICATION
+**********
+
+The ultimate Goal of this repository is to use these basics scripts/example files for Computational Design Development in Architecture
+Engineering and Construction [AEC] domain ( Industry and Academia)
 
 CONTENTS
 *********

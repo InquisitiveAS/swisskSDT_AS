@@ -1,0 +1,33 @@
+//EXAMPLES OF (REQUEST RESPONSE PAIR) FOR GETTING A RESPONSE FROM A REST API USING METHODS & RESOURCES
+
+//__author__ = "Abhishek S Shinde"
+//__contact__ = "arabhishek1091@gmail.com"
+//__copyright__ = "EXD-AS"
+
+
+//To Execute this code in "Visual Studio Code", Please install a REST Client from Extensions
+
+//Theory Notes:Every Response from a REST API will have a HEAD Section and the contents of the HEAD Section will vary depending on the type of Method you used and the type of resource you requested
+//Theory Notes:Response Depends on the Authorization Level the user has who requests
+
+
+//Example1: HEAD request to resource "https://httpbin.org/get" to get only the HEAD Section of the REST API Response
+//The first line of the response demonstrates the Protocol used ie HTTP in this case and the HTTP status message, the rest is metadata
+//Authorization Line is used for full control of the Response Request
+//Use "gzip" to unpack the Response from the Request Response below
+//Uncomment the Line below and click on "Send Request" 
+//HEAD https://httpbin.org/get
+//Authorization: Basic morten -----------------
+
+
+//Example2: GET request to resource "https://httpbin.org/get" to a nested JSON Object
+//To get 10 posts ,replace "https://httpbin.org/get/posts"
+//Uncomment the Line below and click on "Send Request" 
+//GET https://httpbin.org/get
+
+
+//Example3: OPTIONS request helps to get the first step in REST API that is : Discovery
+//Uncomment the Line below and click on "Send Request" 
+//This Response Request gives us a set of options for the resource
+//use the value from href to get Singelton resource
+OPTIONS https://httpbin.org/post

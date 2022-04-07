@@ -1,4 +1,4 @@
-# swiskDS_AS
+# swisskDS_AS
 "Swiss-Knife Technology Stack" :Basic Scripts for Software Development / Software Engineering
 
 

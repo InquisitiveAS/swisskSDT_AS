@@ -1,5 +1,12 @@
 # softdevbasics_AS
-Technology Stack Basics Scripts for Software Development / Software Engineering
+"Swiss-Knife Technology Stack" :Basic Scripts for Software Development / Software Engineering
+
+BACKGROUND
+**********
+
+This Repository springed from the idea of "Swiss Knife" Essentials to familarize in co-developing Desktop Applications,Web Applications,Enterprise Software 
+It is multidiversed as it comprises various technologies(Frameworks,Language,Software Architectures,Architecture Patterns) in Computer Science field
+The ultimate Goal of this repository is to use these basics scripts for Computational Design Workflows in AEC domain ( Industry and Academia)
 
 CONTENTS
 *********

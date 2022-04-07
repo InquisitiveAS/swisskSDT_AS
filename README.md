@@ -6,13 +6,15 @@ BACKGROUND
 **********
 
 This Repository springed from the idea of "Swiss Knife" Essentials to familarize in co-developing Desktop Applications,Web Applications,Enterprise Software 
-It is multidiversed as it comprises various technologies(Frameworks,Language,Software Architectures,Architecture Patterns) in Computer Science field
+It is multidiversed as it comprises various technologies(Frameworks,Language,Software Architectures,Architecture Patterns) in Computer Science field.
+
 
 APPLICATION
 **********
 
 The ultimate Goal of this repository is to use these basics scripts/example files for Computational Design ( Tools,Technology,Workflow) Development in Architecture
-Engineering and Construction [AEC] domain . This can be applied to both Industry and Academia
+Engineering and Construction [AEC] domain . This can be applied to both Industry and Academia.
+
 
 CONTENTS
 *********
@@ -21,11 +23,8 @@ REST APIs, Web APIs, APIs
 
 HTTP,JSON,HTML,XML
 
-CI/CD Pipeline
+(Will add more as I selfexplore the holy grail of Computer Science)
 
-Design Patterns
-
-(Will add more as I discover the holy grail of Computer Science)
 
 COPYRIGHT & LICENSING
 **********************

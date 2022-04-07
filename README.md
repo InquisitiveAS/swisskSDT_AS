@@ -11,8 +11,8 @@ It is multidiversed as it comprises various technologies(Frameworks,Language,Sof
 APPLICATION
 **********
 
-The ultimate Goal of this repository is to use these basics scripts/example files for Computational Design Development in Architecture
-Engineering and Construction [AEC] domain ( Industry and Academia)
+The ultimate Goal of this repository is to use these basics scripts/example files for Computational Design ( Tools,Technology,Workflow) Development in Architecture
+Engineering and Construction [AEC] domain . This can be applied to both Industry and Academia
 
 CONTENTS
 *********

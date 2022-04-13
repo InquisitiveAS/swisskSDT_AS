@@ -1,5 +1,5 @@
 # swisskSDT_AS
-"Swiss-Knife Technology Stack" :Basic Scripts/ Files for Software Development Essential Toolbox
+"Swiss-Knife Technology Stack" :Basic Example Scripts/ Files for Software Development Toolbox
 
 
 BACKGROUND

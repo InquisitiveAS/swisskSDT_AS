@@ -23,6 +23,8 @@ REST APIs, Web APIs, APIs
 
 HTTP,JSON,HTML,XML
 
+BATCH FILE
+
 (Will add more as I selfexplore the holy grail of Computer Science)
 
 

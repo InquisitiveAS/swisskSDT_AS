@@ -1,0 +1,5 @@
+__author__ = "Abhishek Shinde"
+__copyright__ = "https://almost-a-technocrat.blogspot.com/2018/04/auto-create-folder-based-on-filename.html"
+
+Step1_) Copy autoCreateFolderbyFileNamesandmovefilesinside.bat file to the folder where there are files that you want to organize each file to be copy into a folder which has the same name as the filenames
+Step2_) Double click autoCreateFolderbyFileNamesandmovefilesinside.bat file and watch the magic begins.

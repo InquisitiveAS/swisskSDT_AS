@@ -25,7 +25,7 @@ HTTP,JSON,HTML,XML
 
 BATCH FILE
 
-Web App Development ( Retool Integration with other API's)
+Web App Development inside RETOOL (Integration with API's, Database and Queries) - Coming soon!!
 
 (Will add more as I selfexplore the holy grail of Computer Science)
 

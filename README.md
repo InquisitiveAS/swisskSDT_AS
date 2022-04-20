@@ -25,6 +25,8 @@ HTTP,JSON,HTML,XML
 
 BATCH FILE
 
+Web App Development ( Retool Integration with other API's)
+
 (Will add more as I selfexplore the holy grail of Computer Science)
 
 

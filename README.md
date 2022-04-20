@@ -27,7 +27,7 @@ BATCH FILE
 
 Web App Development inside RETOOL (Integration with API's, Database and Queries) - Coming soon!!
 
-Sample Workflow integration with Speckle and IFC.js
+Sample Workflow integration with Speckle and IFC.js - Coming soon!!
 
 (Will add more as I selfexplore the holy grail of Computer Science)
 

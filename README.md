@@ -6,7 +6,7 @@ BACKGROUND
 **********
 
 This Repository springed from the idea of "Swiss Knife" Essentials to familarize in co-developing Desktop Applications,Web Applications,Enterprise Software 
-It is multidiversed as it comprises various technologies(Frameworks,Language,Software Architectures,Architecture Patterns) in Computer Science field.
+It is multidiversed as it comprises various technologies(Frameworks,Language,Software Architectures,Architecture Patterns,Databases,Queries) in Computer Science field.
 
 
 APPLICATION
@@ -26,6 +26,8 @@ HTTP,JSON,HTML,XML
 BATCH FILE
 
 Web App Development inside RETOOL (Integration with API's, Database and Queries) - Coming soon!!
+
+Sample Workflow integration with Speckle and IFC.js
 
 (Will add more as I selfexplore the holy grail of Computer Science)
 

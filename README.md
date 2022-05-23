@@ -1,5 +1,5 @@
 
-![image](https://drive.google.com/uc?export=view&id=17qBzXpZDS9-cm4JusHOadpF7_ARnr0Yb)
+![image](https://drive.google.com/uc?export=1N69Ji1UpW0iun9xtJdRYElwyQ4HzKKs3)
 
 Swiss AEC Software Development Toolkit
 =======================================

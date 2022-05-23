@@ -1,4 +1,7 @@
-swiss AEC Software Development Toolkit
+
+![image](https://drive.google.com/uc?export=view&id=17qBzXpZDS9-cm4JusHOadpF7_ARnr0Yb)
+
+Swiss AEC Software Development Toolkit
 =======================================
 "Swiss-Knife Technology Stack" :Basic Example Scripts/ Files for Software Development Toolbox
 
@@ -20,15 +23,15 @@ Engineering and Construction [AEC] domain . This can be applied to both Industry
 CONTENTS
 ---------
 
-* *REST APIs, Web APIs, APIs
+* REST APIs, Web APIs, APIs
 
-* *HTTP,JSON,HTML,XML
+* HTTP,JSON,HTML,XML
 
-* *BATCH FILE
+* BATCH FILE
 
-* *Web App Development inside RETOOL (Integration with API's, Database and Queries) - Coming soon!!
+* Web App Development inside RETOOL (Integration with API's, Database and Queries) - Coming soon!!
 
-* *Sample Workflow integration with Speckle and IFC.js - Coming soon!!
+* Sample Workflow integration with Speckle and IFC.js - Coming soon!!
 
 (Will add more as I selfexplore the holy grail of Computer Science)
 

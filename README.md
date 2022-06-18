@@ -25,11 +25,11 @@ CONTENTS
 
 * REST APIs, Web APIs, APIs
 
-* LINUX Command Line basics(System Administrator)
+* LINUX (Command Line basics,System Administrator basics) - Coming soon!!
 
-* HTTP,JSON,HTML,CSS,XML
+* HTTP,JSON,HTML,CSS,XML - Coming soon!!
 
-* BATCH FILE
+* BATCH FILE processing - Coming soon!!
 
 * Web App Development inside RETOOL (Integration with API's, Database and Queries) - Coming soon!!
 

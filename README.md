@@ -27,7 +27,7 @@ CONTENTS
 
 * LINUX Command Line basics(System Administrator)
 
-* HTTP,JSON,HTML,XML
+* HTTP,JSON,HTML,CSS,XML
 
 * BATCH FILE
 
